@@ -23,6 +23,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\XBuddy.Domain\XBuddy.Domain.csproj" />
+      <ProjectReference Include="..\XBuddy.Infrastructure\XBuddy.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>

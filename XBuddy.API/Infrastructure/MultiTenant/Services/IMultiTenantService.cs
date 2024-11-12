@@ -4,4 +4,5 @@ public interface IMultiTenantService
 {
     public string GetCurrentTenantId();
     public string SetCurrentTenantId(string tenantId);
+    public Guid? GetUserId();
 }

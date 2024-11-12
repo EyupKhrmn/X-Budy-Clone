@@ -9,3 +9,4 @@
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net8.0/refint/XBuddy.Share.dll
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net8.0/XBuddy.Share.pdb
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net8.0/ref/XBuddy.Share.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net8.0/XBuddy.Share.sourcelink.json

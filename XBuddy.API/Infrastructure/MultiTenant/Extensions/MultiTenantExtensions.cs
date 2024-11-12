@@ -3,6 +3,7 @@ using XBuddy.API.Infrastructure.Middleware;
 using XBuddy.API.Infrastructure.MultiTenant.Options;
 using XBuddy.API.Infrastructure.MultiTenant.Resolvers;
 using XBuddy.API.Infrastructure.MultiTenant.Services;
+using XBuddy.API.Infrastructure.Services;
 
 namespace XBuddy.API.Infrastructure.MultiTenant.Extensions;
 
@@ -14,6 +15,7 @@ public static class MultiTenantExtensions
         services.AddHttpContextAccessor();
         services.AddSingleton<MultiTenantMiddleware>();
         services.AddScoped<IMultiTenantService, MultiTenantService>();
+        services.AddSingleton<ITenantMappingService, TenantMappingService>();
 
         var opt = new MultiTenancyOptions();
         options(opt);

@@ -1,0 +1,15 @@
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/bin/Debug/net8.0/XBuddy.Domain.deps.json
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/bin/Debug/net8.0/XBuddy.Domain.runtimeconfig.json
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/bin/Debug/net8.0/XBuddy.Domain.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/bin/Debug/net8.0/XBuddy.Domain.pdb
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/obj/Debug/net8.0/XBuddy.Domain.csproj.AssemblyReference.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/obj/Debug/net8.0/XBuddy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/obj/Debug/net8.0/XBuddy.Domain.AssemblyInfoInputs.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/obj/Debug/net8.0/XBuddy.Domain.AssemblyInfo.cs
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/obj/Debug/net8.0/XBuddy.Domain.csproj.CoreCompileInputs.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/obj/Debug/net8.0/XBuddy.Domain.sourcelink.json
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/obj/Debug/net8.0/XBuddy.Domain.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/obj/Debug/net8.0/refint/XBuddy.Domain.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/obj/Debug/net8.0/XBuddy.Domain.pdb
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/obj/Debug/net8.0/XBuddy.Domain.genruntimeconfig.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/obj/Debug/net8.0/ref/XBuddy.Domain.dll

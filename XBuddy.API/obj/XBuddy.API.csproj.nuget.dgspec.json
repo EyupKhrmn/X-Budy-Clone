@@ -30,6 +30,9 @@
             "projectReferences": {
               "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/XBuddy.Domain.csproj": {
                 "projectPath": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/XBuddy.Domain.csproj"
+              },
+              "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/XBuddy.Infrastructure.csproj": {
+                "projectPath": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/XBuddy.Infrastructure.csproj"
               }
             }
           }
@@ -157,6 +160,84 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/XBuddy.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/XBuddy.Infrastructure.csproj",
+        "projectName": "XBuddy.Infrastructure",
+        "projectPath": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/XBuddy.Infrastructure.csproj",
+        "packagesPath": "/Users/eyupkahraman/.nuget/packages/",
+        "outputPath": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eyupkahraman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/bin/Debug": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/XBuddy.Domain.csproj": {
+                "projectPath": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/XBuddy.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "XBuddy.Share": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

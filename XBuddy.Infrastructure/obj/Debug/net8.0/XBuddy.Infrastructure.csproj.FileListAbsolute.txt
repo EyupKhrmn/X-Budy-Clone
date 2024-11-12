@@ -1,0 +1,16 @@
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net8.0/XBuddy.Infrastructure.deps.json
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net8.0/XBuddy.Infrastructure.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net8.0/XBuddy.Infrastructure.pdb
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net8.0/XBuddy.Domain.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net8.0/XBuddy.Domain.pdb
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net8.0/XBuddy.Infrastructure.csproj.AssemblyReference.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net8.0/XBuddy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net8.0/XBuddy.Infrastructure.AssemblyInfoInputs.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net8.0/XBuddy.Infrastructure.AssemblyInfo.cs
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net8.0/XBuddy.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net8.0/XBuddy.Infrastructure.sourcelink.json
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net8.0/XBuddy.I.9C510E08.Up2Date
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net8.0/XBuddy.Infrastructure.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net8.0/refint/XBuddy.Infrastructure.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net8.0/XBuddy.Infrastructure.pdb
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net8.0/ref/XBuddy.Infrastructure.dll
