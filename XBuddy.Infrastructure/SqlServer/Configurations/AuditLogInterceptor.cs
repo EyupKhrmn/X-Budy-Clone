@@ -11,7 +11,6 @@ public class AuditLogInterceptor : SaveChangesInterceptor
         InterceptionResult<int> result,
         CancellationToken cancellationToken = new CancellationToken())
     {
-        var entries = eventData.Context.ChangeTracker.Entries().ToList();
         var auditLogs = eventData.Context.ChangeTracker.Entries()
             .Where(ts => ts.Entity is not AuditLog)
             .Where(ts => ts.State == EntityState.Added || ts.State == EntityState.Deleted ||
