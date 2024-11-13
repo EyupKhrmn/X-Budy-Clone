@@ -6,12 +6,14 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.45.2" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
       <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.0" />
       <PackageReference Include="XBuddy.Share" Version="1.0.0" />
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\XBuddy.Application\XBuddy.Application.csproj" />
       <ProjectReference Include="..\XBuddy.Domain\XBuddy.Domain.csproj" />
     </ItemGroup>
 

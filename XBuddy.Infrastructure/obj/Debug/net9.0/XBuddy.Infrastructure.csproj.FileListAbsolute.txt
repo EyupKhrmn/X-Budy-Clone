@@ -14,3 +14,10 @@
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net9.0/refint/XBuddy.Infrastructure.dll
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net9.0/XBuddy.Infrastructure.pdb
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/obj/Debug/net9.0/ref/XBuddy.Infrastructure.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net9.0/Microsoft.Azure.Cosmos.ServiceInterop.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net9.0/Cosmos.CRTCompat.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net9.0/msvcp140.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net9.0/vcruntime140.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net9.0/vcruntime140_1.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net9.0/XBuddy.Application.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Infrastructure/bin/Debug/net9.0/XBuddy.Application.pdb

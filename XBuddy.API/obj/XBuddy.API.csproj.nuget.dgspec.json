@@ -104,6 +104,72 @@
         }
       }
     },
+    "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/XBuddy.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/XBuddy.Application.csproj",
+        "projectName": "XBuddy.Application",
+        "projectPath": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/XBuddy.Application.csproj",
+        "packagesPath": "/Users/eyupkahraman/.nuget/packages/",
+        "outputPath": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eyupkahraman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/bin/Debug": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.45.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/XBuddy.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -206,6 +272,9 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/XBuddy.Application.csproj": {
+                "projectPath": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/XBuddy.Application.csproj"
+              },
               "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/XBuddy.Domain.csproj": {
                 "projectPath": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/XBuddy.Domain.csproj"
               }
@@ -227,6 +296,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.45.2, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.0, )"
