@@ -1,0 +1,12 @@
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/bin/Debug/net9.0/XBuddy.Application.deps.json
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/bin/Debug/net9.0/XBuddy.Application.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/bin/Debug/net9.0/XBuddy.Application.pdb
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/Debug/net9.0/XBuddy.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/Debug/net9.0/XBuddy.Application.AssemblyInfoInputs.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/Debug/net9.0/XBuddy.Application.AssemblyInfo.cs
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/Debug/net9.0/XBuddy.Application.csproj.CoreCompileInputs.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/Debug/net9.0/XBuddy.Application.sourcelink.json
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/Debug/net9.0/XBuddy.Application.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/Debug/net9.0/refint/XBuddy.Application.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/Debug/net9.0/XBuddy.Application.pdb
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/Debug/net9.0/ref/XBuddy.Application.dll

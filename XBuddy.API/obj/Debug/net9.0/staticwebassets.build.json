@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "U0iewmkcpP60y9zVJcXyn6BK7DxBU77+fi61KMEjODU=",
+  "Source": "XBuddy.API",
+  "BasePath": "_content/XBuddy.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

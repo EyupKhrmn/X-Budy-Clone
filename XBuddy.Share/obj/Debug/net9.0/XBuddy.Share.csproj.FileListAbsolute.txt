@@ -1,0 +1,12 @@
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/bin/Debug/net9.0/XBuddy.Share.deps.json
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/bin/Debug/net9.0/XBuddy.Share.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/bin/Debug/net9.0/XBuddy.Share.pdb
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net9.0/XBuddy.Share.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net9.0/XBuddy.Share.AssemblyInfoInputs.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net9.0/XBuddy.Share.AssemblyInfo.cs
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net9.0/XBuddy.Share.csproj.CoreCompileInputs.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net9.0/XBuddy.Share.sourcelink.json
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net9.0/XBuddy.Share.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net9.0/refint/XBuddy.Share.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net9.0/XBuddy.Share.pdb
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Share/obj/Debug/net9.0/ref/XBuddy.Share.dll
