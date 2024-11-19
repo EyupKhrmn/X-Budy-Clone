@@ -1,4 +1,4 @@
-namespace XBuddy.API.Infrastructure.Services;
+namespace XBuddy.Application.Services;
 
 public interface ITenantMappingService
 { 

@@ -127,7 +127,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/XBuddy.Domain.csproj": {
+                "projectPath": "/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Domain/XBuddy.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -145,9 +149,31 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "Mapster.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Mediator.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
+            "Mediator.SourceGenerator": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
             "Microsoft.Azure.Cosmos": {
               "target": "Package",
               "version": "[3.45.2, )"
+            },
+            "XBuddy.Share": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

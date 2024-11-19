@@ -1,3 +1,4 @@
+using XBuddy.Application.Services;
 using XBuddy.Infrastructure.SqlServer.Context;
 
 namespace XBuddy.API.Infrastructure.Services;

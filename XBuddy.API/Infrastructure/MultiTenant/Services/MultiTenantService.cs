@@ -1,4 +1,5 @@
 using XBuddy.API.Infrastructure.Services;
+using XBuddy.Application.Services;
 
 namespace XBuddy.API.Infrastructure.MultiTenant.Services;
 

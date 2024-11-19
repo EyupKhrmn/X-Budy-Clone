@@ -178,3 +178,7 @@
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.API/bin/Debug/net9.0/runtimes/win-x64/native/vcruntime140_1.dll
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.API/bin/Debug/net9.0/XBuddy.Application.dll
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.API/bin/Debug/net9.0/XBuddy.Application.pdb
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.API/bin/Debug/net9.0/Mapster.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.API/bin/Debug/net9.0/Mapster.Core.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.API/bin/Debug/net9.0/Mapster.DependencyInjection.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.API/bin/Debug/net9.0/Mediator.dll

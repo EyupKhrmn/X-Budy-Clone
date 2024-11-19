@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XBuddy.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc8de115d2e5c2869a0c2fd4140e99b1b511b84c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2a81aa85b0405c65a6aeac8806b243433be3472")]
 [assembly: System.Reflection.AssemblyProductAttribute("XBuddy.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XBuddy.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -16,3 +16,6 @@
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/bin/Debug/net9.0/vcruntime140.dll
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/bin/Debug/net9.0/vcruntime140_1.dll
 /Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/Debug/net9.0/XBuddy.Application.csproj.AssemblyReference.cache
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/bin/Debug/net9.0/XBuddy.Domain.dll
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/bin/Debug/net9.0/XBuddy.Domain.pdb
+/Users/eyupkahraman/RiderProjects/X-Budy-Clone/XBuddy.Application/obj/Debug/net9.0/XBuddy.A.35FB9820.Up2Date
